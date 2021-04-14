@@ -1,0 +1,244 @@
+length of train Dataset: 452270
+Number of Classses: 10575
+2021-03-23 18:03:45 Epoch 1 start training
+2021-03-23 18:04:27 Train Epoch: 1 [51200/452270 (11%)]100, Loss: 21.542143, Elapsed time: 42.6045s(100 iters)
+2021-03-23 18:05:04 Train Epoch: 1 [102400/452270 (23%)]200, Loss: 20.241268, Elapsed time: 36.2327s(100 iters)
+2021-03-23 18:05:40 Train Epoch: 1 [153600/452270 (34%)]300, Loss: 19.633652, Elapsed time: 36.4680s(100 iters)
+2021-03-23 18:06:17 Train Epoch: 1 [204800/452270 (45%)]400, Loss: 19.201459, Elapsed time: 36.6318s(100 iters)
+2021-03-23 18:06:54 Train Epoch: 1 [256000/452270 (57%)]500, Loss: 18.631147, Elapsed time: 37.0071s(100 iters)
+2021-03-23 18:07:31 Train Epoch: 1 [307200/452270 (68%)]600, Loss: 17.602865, Elapsed time: 37.3448s(100 iters)
+2021-03-23 18:08:09 Train Epoch: 1 [358400/452270 (79%)]700, Loss: 15.654502, Elapsed time: 37.6496s(100 iters)
+2021-03-23 18:08:47 Train Epoch: 1 [409600/452270 (91%)]800, Loss: 13.009839, Elapsed time: 38.0002s(100 iters)
+LFWACC=0.7400 std=0.0250 thd=0.9765
+2021-03-23 18:10:00 Epoch 2 start training
+2021-03-23 18:10:38 Train Epoch: 2 [51200/452270 (11%)]983, Loss: 9.704003, Elapsed time: 37.8866s(100 iters)
+2021-03-23 18:11:16 Train Epoch: 2 [102400/452270 (23%)]1083, Loss: 9.224100, Elapsed time: 37.6174s(100 iters)
+2021-03-23 18:11:54 Train Epoch: 2 [153600/452270 (34%)]1183, Loss: 8.976005, Elapsed time: 38.3479s(100 iters)
+2021-03-23 18:12:34 Train Epoch: 2 [204800/452270 (45%)]1283, Loss: 8.820329, Elapsed time: 39.8169s(100 iters)
+2021-03-23 18:13:13 Train Epoch: 2 [256000/452270 (57%)]1383, Loss: 8.768263, Elapsed time: 39.7217s(100 iters)
+2021-03-23 18:13:54 Train Epoch: 2 [307200/452270 (68%)]1483, Loss: 8.665584, Elapsed time: 40.2615s(100 iters)
+2021-03-23 18:14:34 Train Epoch: 2 [358400/452270 (79%)]1583, Loss: 8.663328, Elapsed time: 40.5735s(100 iters)
+2021-03-23 18:15:15 Train Epoch: 2 [409600/452270 (91%)]1683, Loss: 8.602696, Elapsed time: 41.0460s(100 iters)
+LFWACC=0.8123 std=0.0207 thd=0.9700
+2021-03-23 18:16:31 Epoch 3 start training
+2021-03-23 18:17:08 Train Epoch: 3 [51200/452270 (11%)]1866, Loss: 8.484848, Elapsed time: 37.6148s(100 iters)
+2021-03-23 18:17:45 Train Epoch: 3 [102400/452270 (23%)]1966, Loss: 8.497802, Elapsed time: 37.1476s(100 iters)
+2021-03-23 18:18:23 Train Epoch: 3 [153600/452270 (34%)]2066, Loss: 8.477571, Elapsed time: 38.0755s(100 iters)
+2021-03-23 18:19:03 Train Epoch: 3 [204800/452270 (45%)]2166, Loss: 8.420724, Elapsed time: 39.0168s(100 iters)
+2021-03-23 18:19:43 Train Epoch: 3 [256000/452270 (57%)]2266, Loss: 8.370181, Elapsed time: 40.2320s(100 iters)
+2021-03-23 18:20:22 Train Epoch: 3 [307200/452270 (68%)]2366, Loss: 8.334318, Elapsed time: 39.1311s(100 iters)
+2021-03-23 18:21:03 Train Epoch: 3 [358400/452270 (79%)]2466, Loss: 8.265598, Elapsed time: 41.0294s(100 iters)
+2021-03-23 18:21:43 Train Epoch: 3 [409600/452270 (91%)]2566, Loss: 8.215087, Elapsed time: 39.7233s(100 iters)
+LFWACC=0.8598 std=0.0135 thd=0.9365
+2021-03-23 18:22:58 Epoch 4 start training
+2021-03-23 18:23:37 Train Epoch: 4 [51200/452270 (11%)]2749, Loss: 8.085587, Elapsed time: 38.1032s(100 iters)
+2021-03-23 18:24:14 Train Epoch: 4 [102400/452270 (23%)]2849, Loss: 8.096619, Elapsed time: 37.7188s(100 iters)
+2021-03-23 18:24:53 Train Epoch: 4 [153600/452270 (34%)]2949, Loss: 8.032759, Elapsed time: 38.5408s(100 iters)
+2021-03-23 18:25:32 Train Epoch: 4 [204800/452270 (45%)]3049, Loss: 7.984898, Elapsed time: 39.0656s(100 iters)
+2021-03-23 18:26:12 Train Epoch: 4 [256000/452270 (57%)]3149, Loss: 7.979305, Elapsed time: 40.4224s(100 iters)
+2021-03-23 18:26:53 Train Epoch: 4 [307200/452270 (68%)]3249, Loss: 7.919147, Elapsed time: 40.6572s(100 iters)
+2021-03-23 18:27:32 Train Epoch: 4 [358400/452270 (79%)]3349, Loss: 7.896892, Elapsed time: 39.3129s(100 iters)
+2021-03-23 18:28:12 Train Epoch: 4 [409600/452270 (91%)]3449, Loss: 7.837923, Elapsed time: 39.2800s(100 iters)
+LFWACC=0.8952 std=0.0131 thd=0.9300
+2021-03-23 18:29:25 Epoch 5 start training
+2021-03-23 18:30:03 Train Epoch: 5 [51200/452270 (11%)]3632, Loss: 7.647273, Elapsed time: 37.6804s(100 iters)
+2021-03-23 18:30:40 Train Epoch: 5 [102400/452270 (23%)]3732, Loss: 7.661220, Elapsed time: 37.1855s(100 iters)
+2021-03-23 18:31:18 Train Epoch: 5 [153600/452270 (34%)]3832, Loss: 7.599947, Elapsed time: 38.6600s(100 iters)
+2021-03-23 18:31:57 Train Epoch: 5 [204800/452270 (45%)]3932, Loss: 7.505295, Elapsed time: 38.7217s(100 iters)
+2021-03-23 18:32:36 Train Epoch: 5 [256000/452270 (57%)]4032, Loss: 7.467780, Elapsed time: 38.7437s(100 iters)
+2021-03-23 18:33:15 Train Epoch: 5 [307200/452270 (68%)]4132, Loss: 7.425092, Elapsed time: 38.7505s(100 iters)
+2021-03-23 18:33:53 Train Epoch: 5 [358400/452270 (79%)]4232, Loss: 7.342645, Elapsed time: 38.7828s(100 iters)
+2021-03-23 18:34:36 Train Epoch: 5 [409600/452270 (91%)]4332, Loss: 7.274774, Elapsed time: 42.7404s(100 iters)
+LFWACC=0.9330 std=0.0122 thd=0.8800
+2021-03-23 18:35:49 Epoch 6 start training
+2021-03-23 18:36:28 Train Epoch: 6 [51200/452270 (11%)]4515, Loss: 7.065249, Elapsed time: 38.2373s(100 iters)
+2021-03-23 18:37:05 Train Epoch: 6 [102400/452270 (23%)]4615, Loss: 7.092993, Elapsed time: 37.7573s(100 iters)
+2021-03-23 18:37:44 Train Epoch: 6 [153600/452270 (34%)]4715, Loss: 7.053506, Elapsed time: 38.4835s(100 iters)
+2021-03-23 18:38:25 Train Epoch: 6 [204800/452270 (45%)]4815, Loss: 7.038746, Elapsed time: 41.2123s(100 iters)
+2021-03-23 18:39:04 Train Epoch: 6 [256000/452270 (57%)]4915, Loss: 7.017448, Elapsed time: 39.1529s(100 iters)
+2021-03-23 18:39:46 Train Epoch: 6 [307200/452270 (68%)]5015, Loss: 6.905167, Elapsed time: 41.6684s(100 iters)
+2021-03-23 18:40:26 Train Epoch: 6 [358400/452270 (79%)]5115, Loss: 6.917277, Elapsed time: 39.9788s(100 iters)
+2021-03-23 18:41:06 Train Epoch: 6 [409600/452270 (91%)]5215, Loss: 6.850694, Elapsed time: 39.8170s(100 iters)
+LFWACC=0.9368 std=0.0138 thd=0.8425
+2021-03-23 18:42:19 Epoch 7 start training
+2021-03-23 18:42:57 Train Epoch: 7 [51200/452270 (11%)]5398, Loss: 6.592211, Elapsed time: 37.7364s(100 iters)
+2021-03-23 18:43:34 Train Epoch: 7 [102400/452270 (23%)]5498, Loss: 6.618082, Elapsed time: 37.3223s(100 iters)
+2021-03-23 18:44:13 Train Epoch: 7 [153600/452270 (34%)]5598, Loss: 6.613379, Elapsed time: 38.2211s(100 iters)
+2021-03-23 18:44:53 Train Epoch: 7 [204800/452270 (45%)]5698, Loss: 6.602008, Elapsed time: 40.8616s(100 iters)
+2021-03-23 18:45:33 Train Epoch: 7 [256000/452270 (57%)]5798, Loss: 6.527073, Elapsed time: 39.5446s(100 iters)
+2021-03-23 18:46:12 Train Epoch: 7 [307200/452270 (68%)]5898, Loss: 6.495109, Elapsed time: 38.6010s(100 iters)
+2021-03-23 18:46:52 Train Epoch: 7 [358400/452270 (79%)]5998, Loss: 6.420874, Elapsed time: 39.9792s(100 iters)
+2021-03-23 18:47:31 Train Epoch: 7 [409600/452270 (91%)]6098, Loss: 6.365624, Elapsed time: 39.4493s(100 iters)
+LFWACC=0.9545 std=0.0121 thd=0.8050
+2021-03-23 18:48:44 Epoch 8 start training
+2021-03-23 18:49:22 Train Epoch: 8 [51200/452270 (11%)]6281, Loss: 6.032485, Elapsed time: 38.1888s(100 iters)
+2021-03-23 18:50:00 Train Epoch: 8 [102400/452270 (23%)]6381, Loss: 6.100642, Elapsed time: 37.8100s(100 iters)
+2021-03-23 18:50:38 Train Epoch: 8 [153600/452270 (34%)]6481, Loss: 6.085491, Elapsed time: 38.4229s(100 iters)
+2021-03-23 18:51:19 Train Epoch: 8 [204800/452270 (45%)]6581, Loss: 6.028298, Elapsed time: 40.2131s(100 iters)
+2021-03-23 18:51:59 Train Epoch: 8 [256000/452270 (57%)]6681, Loss: 5.919916, Elapsed time: 40.6776s(100 iters)
+2021-03-23 18:52:38 Train Epoch: 8 [307200/452270 (68%)]6781, Loss: 5.917191, Elapsed time: 39.0775s(100 iters)
+2021-03-23 18:53:20 Train Epoch: 8 [358400/452270 (79%)]6881, Loss: 5.854554, Elapsed time: 41.5949s(100 iters)
+2021-03-23 18:53:59 Train Epoch: 8 [409600/452270 (91%)]6981, Loss: 5.784984, Elapsed time: 38.9396s(100 iters)
+LFWACC=0.9525 std=0.0129 thd=0.7440
+2021-03-23 18:55:15 Epoch 9 start training
+2021-03-23 18:55:52 Train Epoch: 9 [51200/452270 (11%)]7164, Loss: 5.443940, Elapsed time: 37.7620s(100 iters)
+2021-03-23 18:56:30 Train Epoch: 9 [102400/452270 (23%)]7264, Loss: 5.477987, Elapsed time: 37.3172s(100 iters)
+2021-03-23 18:57:08 Train Epoch: 9 [153600/452270 (34%)]7364, Loss: 5.554196, Elapsed time: 38.4553s(100 iters)
+2021-03-23 18:57:47 Train Epoch: 9 [204800/452270 (45%)]7464, Loss: 5.466493, Elapsed time: 38.9961s(100 iters)
+2021-03-23 18:58:27 Train Epoch: 9 [256000/452270 (57%)]7564, Loss: 5.419756, Elapsed time: 40.1127s(100 iters)
+2021-03-23 18:59:06 Train Epoch: 9 [307200/452270 (68%)]7664, Loss: 5.387145, Elapsed time: 39.0492s(100 iters)
+2021-03-23 18:59:45 Train Epoch: 9 [358400/452270 (79%)]7764, Loss: 5.319906, Elapsed time: 39.0465s(100 iters)
+2021-03-23 19:00:26 Train Epoch: 9 [409600/452270 (91%)]7864, Loss: 5.287552, Elapsed time: 40.6726s(100 iters)
+LFWACC=0.9680 std=0.0073 thd=0.6950
+2021-03-23 19:01:39 Epoch 10 start training
+2021-03-23 19:02:17 Train Epoch: 10 [51200/452270 (11%)]8047, Loss: 4.782079, Elapsed time: 38.3502s(100 iters)
+2021-03-23 19:02:55 Train Epoch: 10 [102400/452270 (23%)]8147, Loss: 4.930422, Elapsed time: 37.9013s(100 iters)
+2021-03-23 19:03:34 Train Epoch: 10 [153600/452270 (34%)]8247, Loss: 4.933983, Elapsed time: 38.7367s(100 iters)
+2021-03-23 19:04:15 Train Epoch: 10 [204800/452270 (45%)]8347, Loss: 4.964213, Elapsed time: 41.5574s(100 iters)
+2021-03-23 19:04:55 Train Epoch: 10 [256000/452270 (57%)]8447, Loss: 4.917008, Elapsed time: 39.1554s(100 iters)
+2021-03-23 19:05:34 Train Epoch: 10 [307200/452270 (68%)]8547, Loss: 4.864893, Elapsed time: 39.3518s(100 iters)
+2021-03-23 19:06:15 Train Epoch: 10 [358400/452270 (79%)]8647, Loss: 4.814865, Elapsed time: 41.0052s(100 iters)
+2021-03-23 19:06:54 Train Epoch: 10 [409600/452270 (91%)]8747, Loss: 4.753649, Elapsed time: 39.5298s(100 iters)
+LFWACC=0.9710 std=0.0098 thd=0.6500
+2021-03-23 19:08:08 Epoch 11 start training
+2021-03-23 19:08:46 Train Epoch: 11 [51200/452270 (11%)]8930, Loss: 4.310976, Elapsed time: 37.8806s(100 iters)
+2021-03-23 19:09:23 Train Epoch: 11 [102400/452270 (23%)]9030, Loss: 4.407504, Elapsed time: 37.2897s(100 iters)
+2021-03-23 19:10:02 Train Epoch: 11 [153600/452270 (34%)]9130, Loss: 4.470433, Elapsed time: 38.3123s(100 iters)
+2021-03-23 19:10:40 Train Epoch: 11 [204800/452270 (45%)]9230, Loss: 4.474295, Elapsed time: 38.6416s(100 iters)
+2021-03-23 19:11:20 Train Epoch: 11 [256000/452270 (57%)]9330, Loss: 4.447730, Elapsed time: 39.5739s(100 iters)
+2021-03-23 19:11:59 Train Epoch: 11 [307200/452270 (68%)]9430, Loss: 4.441559, Elapsed time: 38.9487s(100 iters)
+2021-03-23 19:12:38 Train Epoch: 11 [358400/452270 (79%)]9530, Loss: 4.418412, Elapsed time: 39.0635s(100 iters)
+2021-03-23 19:13:17 Train Epoch: 11 [409600/452270 (91%)]9630, Loss: 4.405632, Elapsed time: 39.2943s(100 iters)
+LFWACC=0.9738 std=0.0076 thd=0.6100
+2021-03-23 19:14:33 Epoch 12 start training
+2021-03-23 19:15:11 Train Epoch: 12 [51200/452270 (11%)]9813, Loss: 3.879043, Elapsed time: 38.2620s(100 iters)
+2021-03-23 19:15:49 Train Epoch: 12 [102400/452270 (23%)]9913, Loss: 4.031242, Elapsed time: 37.7770s(100 iters)
+2021-03-23 19:16:28 Train Epoch: 12 [153600/452270 (34%)]10013, Loss: 4.040682, Elapsed time: 38.5659s(100 iters)
+2021-03-23 19:17:07 Train Epoch: 12 [204800/452270 (45%)]10113, Loss: 4.097894, Elapsed time: 39.3753s(100 iters)
+2021-03-23 19:17:47 Train Epoch: 12 [256000/452270 (57%)]10213, Loss: 4.136228, Elapsed time: 39.5137s(100 iters)
+2021-03-23 19:18:27 Train Epoch: 12 [307200/452270 (68%)]10313, Loss: 4.058051, Elapsed time: 40.3221s(100 iters)
+2021-03-23 19:19:06 Train Epoch: 12 [358400/452270 (79%)]10413, Loss: 4.067484, Elapsed time: 39.0223s(100 iters)
+2021-03-23 19:19:45 Train Epoch: 12 [409600/452270 (91%)]10513, Loss: 4.041144, Elapsed time: 39.2327s(100 iters)
+LFWACC=0.9745 std=0.0082 thd=0.5495
+2021-03-23 19:21:00 Epoch 13 start training
+2021-03-23 19:21:37 Train Epoch: 13 [51200/452270 (11%)]10696, Loss: 3.553206, Elapsed time: 37.8183s(100 iters)
+2021-03-23 19:22:15 Train Epoch: 13 [102400/452270 (23%)]10796, Loss: 3.721412, Elapsed time: 37.3307s(100 iters)
+2021-03-23 19:22:53 Train Epoch: 13 [153600/452270 (34%)]10896, Loss: 3.829503, Elapsed time: 38.2877s(100 iters)
+2021-03-23 19:23:32 Train Epoch: 13 [204800/452270 (45%)]10996, Loss: 3.828229, Elapsed time: 38.8705s(100 iters)
+2021-03-23 19:24:12 Train Epoch: 13 [256000/452270 (57%)]11096, Loss: 3.854528, Elapsed time: 39.6148s(100 iters)
+2021-03-23 19:24:51 Train Epoch: 13 [307200/452270 (68%)]11196, Loss: 3.873100, Elapsed time: 39.2184s(100 iters)
+2021-03-23 19:25:32 Train Epoch: 13 [358400/452270 (79%)]11296, Loss: 3.867719, Elapsed time: 41.3959s(100 iters)
+2021-03-23 19:26:11 Train Epoch: 13 [409600/452270 (91%)]11396, Loss: 3.791940, Elapsed time: 38.8720s(100 iters)
+LFWACC=0.9812 std=0.0051 thd=0.5290
+2021-03-23 19:27:26 Epoch 14 start training
+2021-03-23 19:28:04 Train Epoch: 14 [51200/452270 (11%)]11579, Loss: 3.321970, Elapsed time: 38.2817s(100 iters)
+2021-03-23 19:28:42 Train Epoch: 14 [102400/452270 (23%)]11679, Loss: 3.458376, Elapsed time: 37.8057s(100 iters)
+2021-03-23 19:29:21 Train Epoch: 14 [153600/452270 (34%)]11779, Loss: 3.591801, Elapsed time: 38.4674s(100 iters)
+2021-03-23 19:30:01 Train Epoch: 14 [204800/452270 (45%)]11879, Loss: 3.648927, Elapsed time: 40.1422s(100 iters)
+2021-03-23 19:30:41 Train Epoch: 14 [256000/452270 (57%)]11979, Loss: 3.731495, Elapsed time: 39.6934s(100 iters)
+2021-03-23 19:31:20 Train Epoch: 14 [307200/452270 (68%)]12079, Loss: 3.691931, Elapsed time: 39.3365s(100 iters)
+2021-03-23 19:32:00 Train Epoch: 14 [358400/452270 (79%)]12179, Loss: 3.670631, Elapsed time: 40.1068s(100 iters)
+2021-03-23 19:32:40 Train Epoch: 14 [409600/452270 (91%)]12279, Loss: 3.707031, Elapsed time: 39.4975s(100 iters)
+LFWACC=0.9795 std=0.0060 thd=0.5110
+2021-03-23 19:33:55 Epoch 15 start training
+2021-03-23 19:34:33 Train Epoch: 15 [51200/452270 (11%)]12462, Loss: 3.158546, Elapsed time: 37.9173s(100 iters)
+2021-03-23 19:35:11 Train Epoch: 15 [102400/452270 (23%)]12562, Loss: 3.302808, Elapsed time: 37.3379s(100 iters)
+2021-03-23 19:35:49 Train Epoch: 15 [153600/452270 (34%)]12662, Loss: 3.394792, Elapsed time: 38.1085s(100 iters)
+2021-03-23 19:36:28 Train Epoch: 15 [204800/452270 (45%)]12762, Loss: 3.534572, Elapsed time: 39.2304s(100 iters)
+2021-03-23 19:37:07 Train Epoch: 15 [256000/452270 (57%)]12862, Loss: 3.507165, Elapsed time: 39.0814s(100 iters)
+2021-03-23 19:37:47 Train Epoch: 15 [307200/452270 (68%)]12962, Loss: 3.527429, Elapsed time: 40.2091s(100 iters)
+2021-03-23 19:38:28 Train Epoch: 15 [358400/452270 (79%)]13062, Loss: 3.593295, Elapsed time: 40.5448s(100 iters)
+2021-03-23 19:39:09 Train Epoch: 15 [409600/452270 (91%)]13162, Loss: 3.631014, Elapsed time: 40.7628s(100 iters)
+LFWACC=0.9783 std=0.0076 thd=0.5185
+2021-03-23 19:40:22 Epoch 16 start training
+2021-03-23 19:41:00 Train Epoch: 16 [51200/452270 (11%)]13345, Loss: 3.049158, Elapsed time: 38.4826s(100 iters)
+2021-03-23 19:41:38 Train Epoch: 16 [102400/452270 (23%)]13445, Loss: 3.206240, Elapsed time: 37.8915s(100 iters)
+2021-03-23 19:42:17 Train Epoch: 16 [153600/452270 (34%)]13545, Loss: 3.335127, Elapsed time: 38.9002s(100 iters)
+2021-03-23 19:42:58 Train Epoch: 16 [204800/452270 (45%)]13645, Loss: 3.394393, Elapsed time: 40.7346s(100 iters)
+2021-03-23 19:43:37 Train Epoch: 16 [256000/452270 (57%)]13745, Loss: 3.429809, Elapsed time: 39.4370s(100 iters)
+2021-03-23 19:44:17 Train Epoch: 16 [307200/452270 (68%)]13845, Loss: 3.451789, Elapsed time: 39.7854s(100 iters)
+2021-03-23 19:44:57 Train Epoch: 16 [358400/452270 (79%)]13945, Loss: 3.480110, Elapsed time: 39.6817s(100 iters)
+2021-03-23 19:45:36 Train Epoch: 16 [409600/452270 (91%)]14045, Loss: 3.440548, Elapsed time: 39.5074s(100 iters)
+LFWACC=0.9817 std=0.0075 thd=0.5040
+2021-03-23 19:46:52 Epoch 17 start training
+2021-03-23 19:47:30 Train Epoch: 17 [51200/452270 (11%)]14228, Loss: 2.919838, Elapsed time: 37.9404s(100 iters)
+2021-03-23 19:48:07 Train Epoch: 17 [102400/452270 (23%)]14328, Loss: 3.123867, Elapsed time: 37.3065s(100 iters)
+2021-03-23 19:48:45 Train Epoch: 17 [153600/452270 (34%)]14428, Loss: 3.242491, Elapsed time: 38.4107s(100 iters)
+2021-03-23 19:49:25 Train Epoch: 17 [204800/452270 (45%)]14528, Loss: 3.339631, Elapsed time: 39.4582s(100 iters)
+2021-03-23 19:50:04 Train Epoch: 17 [256000/452270 (57%)]14628, Loss: 3.341947, Elapsed time: 39.6398s(100 iters)
+2021-03-23 19:50:45 Train Epoch: 17 [307200/452270 (68%)]14728, Loss: 3.384270, Elapsed time: 40.2206s(100 iters)
+2021-03-23 19:51:24 Train Epoch: 17 [358400/452270 (79%)]14828, Loss: 3.379490, Elapsed time: 39.3389s(100 iters)
+2021-03-23 19:52:04 Train Epoch: 17 [409600/452270 (91%)]14928, Loss: 3.330485, Elapsed time: 40.3318s(100 iters)
+2021-03-23 19:52:32 Adjust learning rate to 0.010000000000000002
+LFWACC=0.9837 std=0.0045 thd=0.4550
+2021-03-23 19:53:18 Epoch 18 start training
+2021-03-23 19:53:56 Train Epoch: 18 [51200/452270 (11%)]15111, Loss: 2.287705, Elapsed time: 38.3272s(100 iters)
+2021-03-23 19:54:34 Train Epoch: 18 [102400/452270 (23%)]15211, Loss: 2.149130, Elapsed time: 37.8454s(100 iters)
+2021-03-23 19:55:13 Train Epoch: 18 [153600/452270 (34%)]15311, Loss: 2.067199, Elapsed time: 38.6618s(100 iters)
+2021-03-23 19:55:52 Train Epoch: 18 [204800/452270 (45%)]15411, Loss: 2.036563, Elapsed time: 39.5895s(100 iters)
+2021-03-23 19:56:34 Train Epoch: 18 [256000/452270 (57%)]15511, Loss: 1.969333, Elapsed time: 41.5539s(100 iters)
+2021-03-23 19:57:13 Train Epoch: 18 [307200/452270 (68%)]15611, Loss: 1.960336, Elapsed time: 39.1229s(100 iters)
+2021-03-23 19:57:54 Train Epoch: 18 [358400/452270 (79%)]15711, Loss: 1.908195, Elapsed time: 40.8338s(100 iters)
+2021-03-23 19:58:35 Train Epoch: 18 [409600/452270 (91%)]15811, Loss: 1.940017, Elapsed time: 41.3311s(100 iters)
+LFWACC=0.9865 std=0.0046 thd=0.4485
+2021-03-23 19:59:49 Epoch 19 start training
+2021-03-23 20:00:27 Train Epoch: 19 [51200/452270 (11%)]15994, Loss: 1.666767, Elapsed time: 37.8209s(100 iters)
+2021-03-23 20:01:04 Train Epoch: 19 [102400/452270 (23%)]16094, Loss: 1.658802, Elapsed time: 37.2423s(100 iters)
+2021-03-23 20:01:42 Train Epoch: 19 [153600/452270 (34%)]16194, Loss: 1.678796, Elapsed time: 38.0140s(100 iters)
+2021-03-23 20:02:21 Train Epoch: 19 [204800/452270 (45%)]16294, Loss: 1.660589, Elapsed time: 39.0939s(100 iters)
+2021-03-23 20:03:00 Train Epoch: 19 [256000/452270 (57%)]16394, Loss: 1.655228, Elapsed time: 39.1160s(100 iters)
+2021-03-23 20:03:39 Train Epoch: 19 [307200/452270 (68%)]16494, Loss: 1.648572, Elapsed time: 38.8780s(100 iters)
+2021-03-23 20:04:18 Train Epoch: 19 [358400/452270 (79%)]16594, Loss: 1.646215, Elapsed time: 38.6922s(100 iters)
+2021-03-23 20:04:57 Train Epoch: 19 [409600/452270 (91%)]16694, Loss: 1.644649, Elapsed time: 38.7578s(100 iters)
+LFWACC=0.9863 std=0.0044 thd=0.4600
+2021-03-23 20:06:10 Epoch 20 start training
+2021-03-23 20:06:48 Train Epoch: 20 [51200/452270 (11%)]16877, Loss: 1.453638, Elapsed time: 38.3134s(100 iters)
+2021-03-23 20:07:26 Train Epoch: 20 [102400/452270 (23%)]16977, Loss: 1.439644, Elapsed time: 37.8869s(100 iters)
+2021-03-23 20:08:04 Train Epoch: 20 [153600/452270 (34%)]17077, Loss: 1.473905, Elapsed time: 38.4817s(100 iters)
+2021-03-23 20:08:44 Train Epoch: 20 [204800/452270 (45%)]17177, Loss: 1.486628, Elapsed time: 39.3423s(100 iters)
+2021-03-23 20:09:23 Train Epoch: 20 [256000/452270 (57%)]17277, Loss: 1.479248, Elapsed time: 39.9094s(100 iters)
+2021-03-23 20:10:03 Train Epoch: 20 [307200/452270 (68%)]17377, Loss: 1.500278, Elapsed time: 39.0785s(100 iters)
+2021-03-23 20:10:44 Train Epoch: 20 [358400/452270 (79%)]17477, Loss: 1.492485, Elapsed time: 41.5236s(100 iters)
+2021-03-23 20:11:25 Train Epoch: 20 [409600/452270 (91%)]17577, Loss: 1.515357, Elapsed time: 40.5831s(100 iters)
+LFWACC=0.9855 std=0.0056 thd=0.4555
+2021-03-23 20:12:38 Epoch 21 start training
+2021-03-23 20:13:16 Train Epoch: 21 [51200/452270 (11%)]17760, Loss: 1.316068, Elapsed time: 37.8450s(100 iters)
+2021-03-23 20:13:53 Train Epoch: 21 [102400/452270 (23%)]17860, Loss: 1.291222, Elapsed time: 37.2338s(100 iters)
+2021-03-23 20:14:31 Train Epoch: 21 [153600/452270 (34%)]17960, Loss: 1.314261, Elapsed time: 38.1241s(100 iters)
+2021-03-23 20:15:10 Train Epoch: 21 [204800/452270 (45%)]18060, Loss: 1.335124, Elapsed time: 38.6387s(100 iters)
+2021-03-23 20:15:49 Train Epoch: 21 [256000/452270 (57%)]18160, Loss: 1.374768, Elapsed time: 39.2127s(100 iters)
+2021-03-23 20:16:28 Train Epoch: 21 [307200/452270 (68%)]18260, Loss: 1.389890, Elapsed time: 38.7980s(100 iters)
+2021-03-23 20:17:07 Train Epoch: 21 [358400/452270 (79%)]18360, Loss: 1.417582, Elapsed time: 38.6073s(100 iters)
+2021-03-23 20:17:47 Train Epoch: 21 [409600/452270 (91%)]18460, Loss: 1.397799, Elapsed time: 40.1461s(100 iters)
+LFWACC=0.9853 std=0.0055 thd=0.4405
+2021-03-23 20:18:59 Epoch 22 start training
+2021-03-23 20:19:38 Train Epoch: 22 [51200/452270 (11%)]18643, Loss: 1.163230, Elapsed time: 38.2072s(100 iters)
+2021-03-23 20:20:15 Train Epoch: 22 [102400/452270 (23%)]18743, Loss: 1.205968, Elapsed time: 37.6973s(100 iters)
+2021-03-23 20:20:54 Train Epoch: 22 [153600/452270 (34%)]18843, Loss: 1.230838, Elapsed time: 38.2843s(100 iters)
+2021-03-23 20:21:34 Train Epoch: 22 [204800/452270 (45%)]18943, Loss: 1.241377, Elapsed time: 40.3679s(100 iters)
+2021-03-23 20:22:13 Train Epoch: 22 [256000/452270 (57%)]19043, Loss: 1.270117, Elapsed time: 39.2924s(100 iters)
+2021-03-23 20:22:53 Train Epoch: 22 [307200/452270 (68%)]19143, Loss: 1.294839, Elapsed time: 39.3447s(100 iters)
+2021-03-23 20:23:33 Train Epoch: 22 [358400/452270 (79%)]19243, Loss: 1.310285, Elapsed time: 40.2049s(100 iters)
+2021-03-23 20:24:13 Train Epoch: 22 [409600/452270 (91%)]19343, Loss: 1.339541, Elapsed time: 40.6214s(100 iters)
+LFWACC=0.9847 std=0.0050 thd=0.4460
+2021-03-23 20:25:28 Epoch 23 start training
+2021-03-23 20:26:05 Train Epoch: 23 [51200/452270 (11%)]19526, Loss: 1.085197, Elapsed time: 37.6249s(100 iters)
+2021-03-23 20:26:43 Train Epoch: 23 [102400/452270 (23%)]19626, Loss: 1.129247, Elapsed time: 37.1973s(100 iters)
+2021-03-23 20:27:21 Train Epoch: 23 [153600/452270 (34%)]19726, Loss: 1.133883, Elapsed time: 38.3311s(100 iters)
+2021-03-23 20:28:02 Train Epoch: 23 [204800/452270 (45%)]19826, Loss: 1.182971, Elapsed time: 40.8979s(100 iters)
+2021-03-23 20:28:42 Train Epoch: 23 [256000/452270 (57%)]19926, Loss: 1.194585, Elapsed time: 40.3962s(100 iters)
+2021-03-23 20:29:21 Train Epoch: 23 [307200/452270 (68%)]20026, Loss: 1.192158, Elapsed time: 39.0098s(100 iters)
+2021-03-23 20:30:03 Train Epoch: 23 [358400/452270 (79%)]20126, Loss: 1.228481, Elapsed time: 41.4187s(100 iters)
+2021-03-23 20:30:42 Train Epoch: 23 [409600/452270 (91%)]20226, Loss: 1.247009, Elapsed time: 39.0893s(100 iters)
+LFWACC=0.9868 std=0.0053 thd=0.4445
+2021-03-23 20:31:55 Epoch 24 start training
+2021-03-23 20:32:33 Train Epoch: 24 [51200/452270 (11%)]20409, Loss: 1.017305, Elapsed time: 38.1764s(100 iters)
+2021-03-23 20:33:11 Train Epoch: 24 [102400/452270 (23%)]20509, Loss: 1.041369, Elapsed time: 37.7543s(100 iters)
+2021-03-23 20:33:52 Train Epoch: 24 [153600/452270 (34%)]20609, Loss: 1.060445, Elapsed time: 40.7644s(100 iters)
+2021-03-23 20:34:30 Train Epoch: 24 [204800/452270 (45%)]20709, Loss: 1.087596, Elapsed time: 38.7311s(100 iters)
+2021-03-23 20:35:10 Train Epoch: 24 [256000/452270 (57%)]20809, Loss: 1.109533, Elapsed time: 39.6922s(100 iters)
+2021-03-23 20:35:52 Train Epoch: 24 [307200/452270 (68%)]20909, Loss: 1.142742, Elapsed time: 41.7376s(100 iters)
+2021-03-23 20:36:31 Train Epoch: 24 [358400/452270 (79%)]21009, Loss: 1.158573, Elapsed time: 38.7560s(100 iters)
+2021-03-23 20:37:10 Train Epoch: 24 [409600/452270 (91%)]21109, Loss: 1.194092, Elapsed time: 39.4483s(100 iters)
+LFWACC=0.9848 std=0.0055 thd=0.4330
+2021-03-23 20:38:24 Epoch 25 start training
